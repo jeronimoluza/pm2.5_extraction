@@ -6,5 +6,5 @@ This repository hosts the code for my [blog post](https://jeronimoluza.github.io
 
 - `data/`: contains a sample PM2.5 NetCDF file.
 - `images/`: contains images used in the blog post.
-- `notebooks/`: contains a notebook explaining the extracture procedure step by step.
+- `notebooks/`: contains a notebook explaining the extraction procedure step by step.
 - `scripts/`: contains a Python script that's useful for batch processing.
