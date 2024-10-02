@@ -1,0 +1,5 @@
+xarray
+shapely
+pandas
+geopandas
+h3==4.0.0b2
